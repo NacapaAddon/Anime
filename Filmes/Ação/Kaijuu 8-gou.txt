@@ -100,11 +100,35 @@
 #
 <item>
 
-<title>[B][COLOR lime]●[/COLOR][COLOR gold]Kaijuu 8-gou -[/COLOR][COLOR white]Episódios 11 -[/COLOR][COLOR red]Leg[/COLOR][/B]</title>
-<link>https://animeflix.blog/Animes/Letra-K/Kaijuu%208-gou/11fhd.mp4</link>
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Kaijuu 8-gou -[/COLOR][COLOR white]Episódios 11 -[/COLOR][COLOR lime]Dob[/COLOR][/B]</title>
+<link>https://cld.pt/dl/download/452cc857-92b9-434d-b423-a634dc686737/Kaijuu%208-gou%20-%20Dublado%20%E2%80%93%20Epis%C3%B3dio%2011%20-%20HD.mp4</link>
+<thumbnail>https://animesonline.cloud/wp-content/uploads/2024/04/A6JOsCdFFTxtbDnKAfE0iY6jOiE-212x300.jpg.webp</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tzeki1upB5yGlYG2KR1UIW28oaD.jpg</fanart>
+<info>[B][COLOR lime]1 -[/COLOR][COLOR white]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Monstros grotescos, parecidos com Godzilla, chamados kaijuu, têm aparecido no Japão há muitos anos. Para combater essas feras, uma unidade militar de elite conhecida como Corpo de Defesa arrisca suas vidas diariamente para proteger os civis. Kafka Hibino, um homem de 32 anos, está insatisfeito com seu trabalho como varredor. Desde tenra idade, ele aspirava se juntar ao Corpo de Defesa e ganhar a vida matando kaijuus. Depois de algumas tentativas fracassadas, porém, ele desistiu de seus sonhos e resignou-se à mediocridade que lhe proporcionava um salário decente. Após uma cadeia de eventos infelizes e uma interação com o varredor júnior, Kafka encontra um kaijuu do tipo parasita que entra pela boca – transformando-o em um monstro humanóide. Com seus novos poderes, Kafka pretende dar uma última chance ao sonho de sua vida.[/COLOR][/B]</info>
+
+</item>
+#
+<item>
+
+<title>[B][COLOR lime]●[/COLOR][COLOR gold]Kaijuu 8-gou -[/COLOR][COLOR white]Episódios 12 -[/COLOR][COLOR lime]Dob[/COLOR][/B]</title>
+<link>https://cld.pt/dl/download/fe61fcb7-3461-4199-9a85-b497bf3420af/12HD.mp4</link>
 <thumbnail>https://animesonline.cloud/wp-content/uploads/2024/04/A6JOsCdFFTxtbDnKAfE0iY6jOiE-212x300.jpg.webp</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tzeki1upB5yGlYG2KR1UIW28oaD.jpg</fanart>
 <info>[B][COLOR lime]1 -[/COLOR][COLOR white]Temporada -[/COLOR][COLOR yellow][COLOR lime]Sinopse:[/COLOR]Monstros grotescos, parecidos com Godzilla, chamados kaijuu, têm aparecido no Japão há muitos anos. Para combater essas feras, uma unidade militar de elite conhecida como Corpo de Defesa arrisca suas vidas diariamente para proteger os civis. Kafka Hibino, um homem de 32 anos, está insatisfeito com seu trabalho como varredor. Desde tenra idade, ele aspirava se juntar ao Corpo de Defesa e ganhar a vida matando kaijuus. Depois de algumas tentativas fracassadas, porém, ele desistiu de seus sonhos e resignou-se à mediocridade que lhe proporcionava um salário decente. Após uma cadeia de eventos infelizes e uma interação com o varredor júnior, Kafka encontra um kaijuu do tipo parasita que entra pela boca – transformando-o em um monstro humanóide. Com seus novos poderes, Kafka pretende dar uma última chance ao sonho de sua vida.[/COLOR][/B]</info>
 
 </item>
 ############################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
